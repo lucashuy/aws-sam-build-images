@@ -2,7 +2,7 @@
 docker~=7.1.0
 pylint~=2.6.0
 urllib3<2
-requests~=2.31.0
+requests~=2.32.0
 
 # Test requirements
 pytest==7.3.1
